@@ -1,2 +1,2 @@
-# ynchuang.github.io
+# allen-chuang.github.io
 Yu-Neng Chuang's Official Site
